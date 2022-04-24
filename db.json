@@ -4,7 +4,7 @@
       "id": 2,
       "text": "Hacer Compras",
       "day": "Agosto 6 a las 18:00",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 3,
@@ -13,10 +13,16 @@
       "reminder": false
     },
     {
-      "id": 4,
       "text": "Migrar Portfolio",
-      "day": "Agosto 8 a las 13:00",
-      "reminder": false
+      "day": "Agosto 8 a las 17:00",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Mi Tarea",
+      "day": "Mañana",
+      "reminder": false,
+      "id": 5
     }
   ]
 }
